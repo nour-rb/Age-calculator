@@ -1,0 +1,29 @@
+body {
+    background-color: bisque;
+}
+div p{
+    background-color: blanchedalmond;
+    text-align: center;
+    font-size: 35px;
+}
+
+div input{
+    border: rgb(247, 86, 86) solid 3px;
+    border-radius: 5px;
+    /*font-size: 28px;*/
+}
+div button {
+    border: rgb(247, 86, 86) solid 3px;
+    border-radius: 5px;
+}
+h1 {
+    text-align: center;
+    border-bottom: double black 2px;
+    font-size: 50px;
+    margin-top: 0%;
+}
+#counter {
+    display: flex;
+    justify-self: center;
+    gap: 5px;
+}
