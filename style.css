@@ -8,12 +8,12 @@ div p{
 }
 
 div input{
-    border: rgb(247, 86, 86) solid 3px;
+    border: rgb(69, 203, 252) solid 3px;
     border-radius: 5px;
     /*font-size: 28px;*/
 }
 div button {
-    border: rgb(247, 86, 86) solid 3px;
+    border: rgb(79, 169, 238) solid 3px;
     border-radius: 5px;
 }
 h1 {
