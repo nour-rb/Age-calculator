@@ -8,7 +8,7 @@ div p{
 }
 
 div input{
-    border: rgb(69, 203, 252) solid 3px;
+    border: rgb(80, 156, 255) solid 3px;
     border-radius: 5px;
     /*font-size: 28px;*/
 }
@@ -26,4 +26,13 @@ h1 {
     display: flex;
     justify-self: center;
     gap: 5px;
+}
+
+#age-result {
+  font-size: 24px;
+  font-weight: bold;
+  color: darkgreen;
+  margin-top: 20px;
+  display: block; /* Helps it stay on its own line */
+  text-align: center;
 }
